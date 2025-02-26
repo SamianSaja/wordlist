@@ -269,7 +269,7 @@
 				{
 					"id":3,
 					"name":"MTU 9000 & multicast",
-					"ipv444444":{
+					"ipv4":{
 						"prefix":"149.112.96.0",
 						"mask_length":23
 					},
@@ -330,7 +330,7 @@
 								"max_prefix":10
 							},
 							"ipv6":{
-								"address":"2001:504:16:1::6:171f",
+								"address":"2001:504:16:1::6:AaBf",
 								"max_prefix":20
 							}
 						}
