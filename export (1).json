@@ -1,0 +1,27 @@
+{
+  "Exchange": {
+    "Name": "BEE-IX",
+    "Organization": "Rudakov Ihor",
+    "Also Known As": "BEE-IX",
+    "Long Name": "BEE-IX Internet Exchanges",
+    "City": "Frankfurt",
+    "Country": "UA",
+    "Continental Region": "Europe",
+    "Media Type": "Ethernet",
+    "Service Level": "Normal Business Hours",
+    "Terms": "No Commercial Terms",
+    "Last Updated": "2024-08-05T09:31:16Z",
+    "Notes": "==============================================We recommend using RUDAKi-IX:Рекомендуем использовать RUDAKi-IX:https://www.peeringdb.com/ix/3681BEE-IX is a non-commercial Internet Exchange Point (IXP) established in 2023. It provides traffic exchange services mainly for small ISPs, private networks. BEE-IX is for learning and experimentation only and is not allowed to be used for commercial services and has no SLA.BEE-IX — некоммерческая точка обмена интернет-трафиком (IXP), созданная в 2023 году. Она предоставляет услуги обмена трафиком в основном для небольших интернет-провайдеров, частных сетей. BEE-IX предназначен только для обучения и экспериментов, его нельзя использовать в коммерческих целях, и на него не распространяется соглашение об уровне обслуживания. Translate »",
+    "Contact Information": "",
+    "Company Website": "http://bee-ix.rudaki.net/",
+    "Traffic Stats Website": "https://t.me/+laAo21KNCIljYmIy",
+    "Technical Email": "info@rudaki-ix.net",
+    "Technical Phone": "",
+    "Policy Email": "info@rudaki-ix.net",
+    "Policy Phone": "",
+    "Sales Email": "info@rudaki-ix.net",
+    "Sales Phone": "",
+    "Health Check": "",
+    "LAN": "1500"
+  }
+}
