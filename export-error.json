@@ -7,7 +7,7 @@
 			"shortname":"SIX Seattle",
 			"name":"Seattle Internet Exchange (MTU 1500)",
 			"ixf_id":148,
-			"peeringdb_id":13,
+			"peeringdb_id":10000000,
 			"url":"https://www.seattleix.net/",
 			"country":"US",
 			"support_email":"info@seattleix.net",
