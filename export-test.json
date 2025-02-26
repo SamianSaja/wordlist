@@ -1,0 +1,3627 @@
+{
+  "Exchange": {
+    "Name": "SIX Seattle",
+    "Organization": "Seattle Internet Exchange",
+    "Also Known As": "",
+    "Long Name": "Seattle Internet Exchange (MTU 1500)",
+    "City": "Seattle",
+    "Country": "US",
+    "Continental Region": "North America",
+    "Service Level": "24/7 Support",
+    "Terms": "Non-recurring Fees Only",
+    "Last Updated": "2025-02-26T07:30:44Z",
+    "Notes": "SIX port fees:400G: $15k NRC, no MRC100G: $7.5k NRC, no MRC10G: $1.5k NRC, no MRC1G: $100 NRC, no MRCExtension port: $100 NRC, no MRC Translate »",
+    "Contact Information": "",
+    "Company Website": "https://www.seattleix.net/",
+    "Traffic Stats Website": "https://www.seattleix.net/statistics/",
+    "Technical Email": "info@seattleix.net",
+    "Technical Phone": "+12063674320",
+    "Policy Email": "info@seattleix.net",
+    "Policy Phone": "+12063674320",
+    "Sales Email": "",
+    "Sales Phone": "",
+    "Health Check": "",
+    "LAN": "1500"
+  },
+  "Prefixes": [
+    {
+      "Protocol": "IPv4",
+      "Prefix": "206.81.80.0/23"
+    },
+    {
+      "Protocol": "IPv6",
+      "Prefix": "2001:504:16::/64"
+    }
+  ],
+  "Local Facilities": [
+    {
+      "Facility": "1530 SWIFT - NOCIX",
+      "Country": "United States of America",
+      "City": "North Kansas City"
+    },
+    {
+      "Facility": "Arrow Calgary DC2",
+      "Country": "Canada",
+      "City": "Calgary"
+    },
+    {
+      "Facility": "Cologix MIN1",
+      "Country": "United States of America",
+      "City": "Minneapolis"
+    },
+    {
+      "Facility": "Cologix MIN2",
+      "Country": "United States of America",
+      "City": "Minneapolis"
+    },
+    {
+      "Facility": "Cologix MIN3",
+      "Country": "United States of America",
+      "City": "Minneapolis"
+    },
+    {
+      "Facility": "Cologix MIN4",
+      "Country": "United States of America",
+      "City": "Minneapolis"
+    },
+    {
+      "Facility": "Cyxtera Seattle (SEA1-B)",
+      "Country": "United States of America",
+      "City": "Tukwila"
+    },
+    {
+      "Facility": "DataBank Minneapolis (MSP4)",
+      "Country": "United States of America",
+      "City": "Minneapolis"
+    },
+    {
+      "Facility": "Digital Realty Seattle SEA10",
+      "Country": "United States of America",
+      "City": "Seattle"
+    },
+    {
+      "Facility": "Equinix SE2/SE3 - Seattle",
+      "Country": "United States of America",
+      "City": "Seattle"
+    },
+    {
+      "Facility": "H5 Data Centers Seattle",
+      "Country": "United States of America",
+      "City": "Seattle"
+    },
+    {
+      "Facility": "Intergate West / Digital.forest / Fortress",
+      "Country": "United States of America",
+      "City": "Tukwila"
+    },
+    {
+      "Facility": "KOMO Plaza Seattle (Formerly Fisher Plaza)",
+      "Country": "United States of America",
+      "City": "Seattle"
+    },
+    {
+      "Facility": "Sabey Intergate East Building 4",
+      "Country": "United States of America",
+      "City": "Tukwila"
+    },
+    {
+      "Facility": "WowRack",
+      "Country": "United States of America",
+      "City": "Tukwila"
+    }
+  ],
+  "Peers at this Exchange Point": [
+    {
+      "Peer Name": "617A Corporation",
+      "IPv4": "206.81.80.174",
+      "ASN": "399135",
+      "IPv6": "2001:504:16::6:171f",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "AARNet",
+      "IPv4": "206.81.80.112",
+      "ASN": "7575",
+      "IPv6": "2001:504:16::1d97",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Accel Net",
+      "IPv4": "206.81.81.240",
+      "ASN": "18647",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Access Communications Co-operative",
+      "IPv4": "206.81.81.24",
+      "ASN": "21804",
+      "IPv6": "2001:504:16::552c",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Accutar Canada",
+      "IPv4": "206.81.81.186",
+      "ASN": "1011",
+      "IPv6": "2001:504:16::3f3",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Accutar Canada",
+      "IPv4": "206.81.81.187",
+      "ASN": "1011",
+      "IPv6": "2001:504:16::443:0:3f3",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Acronis AMER",
+      "IPv4": "206.81.80.240",
+      "ASN": "53991",
+      "IPv6": "2001:504:16::d2e7",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Adobe Systems",
+      "IPv4": "206.81.81.13",
+      "ASN": "15224",
+      "IPv6": "2001:504:16::3b78",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Adobe Systems",
+      "IPv4": "206.81.81.14",
+      "ASN": "15224",
+      "IPv6": "2001:504:16::270:0:3b78",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Advanced Communications Technology",
+      "IPv4": "206.81.80.180",
+      "ASN": "30110",
+      "IPv6": "2001:504:16::759e",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "AEBC Internet Corp.",
+      "IPv4": "206.81.80.103",
+      "ASN": "25668",
+      "IPv6": "2001:504:16::6444",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "AIRBRIDGE",
+      "IPv4": "206.81.80.230",
+      "ASN": "27578",
+      "IPv6": "",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Akamai Technologies",
+      "IPv4": "206.81.80.113",
+      "ASN": "20940",
+      "IPv6": "2001:504:16::51cc",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Akamai Technologies",
+      "IPv4": "206.81.80.168",
+      "ASN": "20940",
+      "IPv6": "2001:504:16::168:0:51cc",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Akari Networks Limited",
+      "IPv4": "206.81.80.169",
+      "ASN": "38136",
+      "IPv6": "2001:504:16::94f8",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Alaska Communications Systems Group, Inc.",
+      "IPv4": "206.81.80.47",
+      "ASN": "7782",
+      "IPv6": "2001:504:16::1e66",
+      "Speed": "40G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "AllWorldIT ZA",
+      "IPv4": "206.81.80.125",
+      "ASN": "328112",
+      "IPv6": "2001:504:16::5:1b0",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Altius Institute for Biomedical Sciences",
+      "IPv4": "206.81.80.210",
+      "ASN": "395664",
+      "IPv6": "2001:504:16::6:990",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Altopia Corporation",
+      "IPv4": "206.81.81.41",
+      "ASN": "6456",
+      "IPv6": "2001:504:16::297:0:1938",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Altopia Corporation",
+      "IPv4": "206.81.80.10",
+      "ASN": "6456",
+      "IPv6": "2001:504:16::1938",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Amazon IVS",
+      "IPv4": "206.81.81.55",
+      "ASN": "46489",
+      "IPv6": "2001:504:16::311:0:b599",
+      "Speed": "30G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Amazon IVS",
+      "IPv4": "206.81.81.54",
+      "ASN": "46489",
+      "IPv6": "2001:504:16::b599",
+      "Speed": "30G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Amazon.com",
+      "IPv4": "206.81.80.147",
+      "ASN": "16509",
+      "IPv6": "2001:504:16::407d",
+      "Speed": "300G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Amazon.com",
+      "IPv4": "206.81.80.249",
+      "ASN": "16509",
+      "IPv6": "2001:504:16::249:0:407d",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Amazon.com",
+      "IPv4": "206.81.80.248",
+      "ASN": "16509",
+      "IPv6": "2001:504:16::248:0:407d",
+      "Speed": "300G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Amazon.com",
+      "IPv4": "206.81.80.250",
+      "ASN": "16509",
+      "IPv6": "2001:504:16::250:0:407d",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Andromeda Industries",
+      "IPv4": "206.81.81.75",
+      "ASN": "401361",
+      "IPv6": "2001:504:16::6:1fd1",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ANSIBLE Networks",
+      "IPv4": "206.81.81.51",
+      "ASN": "14570",
+      "IPv6": "2001:504:16::38ea",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Anycast Global Backbone",
+      "IPv4": "206.81.81.108",
+      "ASN": "58511",
+      "IPv6": "2001:504:16::e48f",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Apple Inc.",
+      "IPv4": "206.81.80.205",
+      "ASN": "714",
+      "IPv6": "2001:504:16::205:0:2ca",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Apple Inc.",
+      "IPv4": "206.81.80.204",
+      "ASN": "714",
+      "IPv6": "2001:504:16::2ca",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "APPLEBEE-NETWORKS",
+      "IPv4": "206.81.80.167",
+      "ASN": "23459",
+      "IPv6": "2001:504:16::5ba3",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Applied Operations",
+      "IPv4": "206.81.80.137",
+      "ASN": "40475",
+      "IPv6": "2001:504:16::9e1b",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Archeo Futurus",
+      "IPv4": "206.81.80.42",
+      "ASN": "36584",
+      "IPv6": "2001:504:16::8ee8",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ARIN-PFS-SEA",
+      "IPv4": "206.81.81.62",
+      "ASN": "394018",
+      "IPv6": "2001:504:16::6:322",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Arrow Group",
+      "IPv4": "206.81.81.242",
+      "ASN": "20119",
+      "IPv6": "2001:504:16::4e97",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Arrow Group",
+      "IPv4": "206.81.81.168",
+      "ASN": "20119",
+      "IPv6": "2001:504:16::424:0:4e97",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Astute Hosting",
+      "IPv4": "206.81.81.56",
+      "ASN": "54527",
+      "IPv6": "2001:504:16::d4ff",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ATGBB",
+      "IPv4": "206.81.80.49",
+      "ASN": "4258",
+      "IPv6": "2001:504:16::10a2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ATGBB",
+      "IPv4": "206.81.80.241",
+      "ASN": "4258",
+      "IPv6": "2001:504:16::241:0:10a2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Atlantic Metro",
+      "IPv4": "206.81.80.71",
+      "ASN": "29838",
+      "IPv6": "2001:504:16::748e",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Atlas Networks",
+      "IPv4": "206.81.81.30",
+      "ASN": "21743",
+      "IPv6": "2001:504:16::54ef",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Ausra Systems AS400818",
+      "IPv4": "206.81.81.152",
+      "ASN": "400818",
+      "IPv6": "2001:504:16::6:1db2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Automattic",
+      "IPv4": "206.81.81.70",
+      "ASN": "2635",
+      "IPv6": "2001:504:16::a4b",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Axia Connect Ltd.",
+      "IPv4": "206.81.80.213",
+      "ASN": "54182",
+      "IPv6": "2001:504:16::d3a6",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "BankOnIT",
+      "IPv4": "206.81.81.206",
+      "ASN": "46416",
+      "IPv6": "2001:504:16::b550",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Beanfield Technologies",
+      "IPv4": "206.81.81.210",
+      "ASN": "21949",
+      "IPv6": "2001:504:16::55bd",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Bell Canada Backbone",
+      "IPv4": "206.81.80.217",
+      "ASN": "577",
+      "IPv6": "2001:504:16::241",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "BendTel",
+      "IPv4": "206.81.80.100",
+      "ASN": "27008",
+      "IPv6": "2001:504:16::6980",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "BH TELECOM",
+      "IPv4": "206.81.80.15",
+      "ASN": "19523",
+      "IPv6": "2001:504:16::4c43",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "BICS",
+      "IPv4": "206.81.80.161",
+      "ASN": "6774",
+      "IPv6": "2001:504:16::1a76",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Bigleaf Networks, Inc.",
+      "IPv4": "206.81.81.73",
+      "ASN": "62642",
+      "IPv6": "",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Bill & Melinda Gates Foundation",
+      "IPv4": "206.81.80.144",
+      "ASN": "15238",
+      "IPv6": "",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Blackfoot Communications Inc",
+      "IPv4": "206.81.80.209",
+      "ASN": "21947",
+      "IPv6": "2001:504:16::209:0:55bb",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Blackfoot Communications Inc",
+      "IPv4": "206.81.80.109",
+      "ASN": "21947",
+      "IPv6": "2001:504:16::55bb",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Blizzard Entertainment",
+      "IPv4": "206.81.81.122",
+      "ASN": "57976",
+      "IPv6": "2001:504:16::e278",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Blue Origin",
+      "IPv4": "206.81.81.165",
+      "ASN": "55244",
+      "IPv6": "2001:504:16::421:0:d7cc",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Blue Origin",
+      "IPv4": "206.81.81.164",
+      "ASN": "55244",
+      "IPv6": "2001:504:16::d7cc",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "BLUESPAN",
+      "IPv4": "206.81.80.65",
+      "ASN": "394581",
+      "IPv6": "2001:504:16::6:555",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Broadband Visions",
+      "IPv4": "206.81.80.238",
+      "ASN": "25615",
+      "IPv6": "2001:504:16::640f",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Broadcom SASE",
+      "IPv4": "206.81.81.114",
+      "ASN": "53766",
+      "IPv6": "2001:504:16::d206",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Broadcom SASE",
+      "IPv4": "206.81.81.115",
+      "ASN": "53766",
+      "IPv6": "2001:504:16::371:0:d206",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "BSO",
+      "IPv4": "206.81.81.111",
+      "ASN": "4455",
+      "IPv6": "2001:504:16::1167",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Bungie",
+      "IPv4": "206.81.81.234",
+      "ASN": "394073",
+      "IPv6": "",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Bungie",
+      "IPv4": "206.81.81.216",
+      "ASN": "394073",
+      "IPv6": "",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ByteDance",
+      "IPv4": "206.81.81.137",
+      "ASN": "396986",
+      "IPv6": "2001:504:16::6:eba",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ByteDance",
+      "IPv4": "206.81.81.138",
+      "ASN": "396986",
+      "IPv6": "2001:504:16::394:6:eba",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CABLE ONE",
+      "IPv4": "206.81.81.229",
+      "ASN": "11492",
+      "IPv6": "2001:504:16::485:0:2ce4",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CABLE ONE",
+      "IPv4": "206.81.81.226",
+      "ASN": "11492",
+      "IPv6": "2001:504:16::2ce4",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CacheFly",
+      "IPv4": "206.81.80.74",
+      "ASN": "30081",
+      "IPv6": "2001:504:16::74:0:7581",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CacheFly",
+      "IPv4": "206.81.80.24",
+      "ASN": "30081",
+      "IPv6": "2001:504:16::7581",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cactus International",
+      "IPv4": "206.81.80.122",
+      "ASN": "398700",
+      "IPv6": "2001:504:16::6:156c",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "campuscolo.com",
+      "IPv4": "206.81.81.172",
+      "ASN": "17017",
+      "IPv6": "2001:504:16::4279",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CANARIE Inc",
+      "IPv4": "206.81.80.189",
+      "ASN": "6509",
+      "IPv6": "2001:504:16::196d",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CarverLink",
+      "IPv4": "206.81.80.220",
+      "ASN": "55216",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cato Networks",
+      "IPv4": "206.81.81.46",
+      "ASN": "13150",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CCL Networks",
+      "IPv4": "206.81.81.176",
+      "ASN": "396125",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CDN77",
+      "IPv4": "206.81.81.27",
+      "ASN": "60068",
+      "IPv6": "2001:504:16::eaa4",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Charter Communications",
+      "IPv4": "206.81.80.234",
+      "ASN": "20115",
+      "IPv6": "2001:504:16::4e93",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "China Mobile International",
+      "IPv4": "206.81.81.181",
+      "ASN": "58453",
+      "IPv6": "2001:504:16::e455",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CIRCLE",
+      "IPv4": "206.81.81.105",
+      "ASN": "151381",
+      "IPv6": "2001:504:16::2:4f55",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cisco Umbrella",
+      "IPv4": "206.81.80.53",
+      "ASN": "36692",
+      "IPv6": "2001:504:16::8f54",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "City of Seattle - IIT",
+      "IPv4": "206.81.80.202",
+      "ASN": "3401",
+      "IPv6": "",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "City West Cable & Telephone",
+      "IPv4": "206.81.81.106",
+      "ASN": "18988",
+      "IPv6": "2001:504:16::4a2c",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Clackamas ESD",
+      "IPv4": "206.81.80.162",
+      "ASN": "36416",
+      "IPv6": "2001:504:16::8e40",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Clearfly Communications",
+      "IPv4": "206.81.80.221",
+      "ASN": "27400",
+      "IPv6": "2001:504:16::6b08",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cloudflare",
+      "IPv4": "206.81.81.58",
+      "ASN": "13335",
+      "IPv6": "2001:504:16::314:0:3417",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cloudflare",
+      "IPv4": "206.81.81.10",
+      "ASN": "13335",
+      "IPv6": "2001:504:16::3417",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CNSERVERS",
+      "IPv4": "206.81.81.38",
+      "ASN": "40065",
+      "IPv6": "",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cofractal",
+      "IPv4": "206.81.81.220",
+      "ASN": "26073",
+      "IPv6": "2001:504:16::65d9",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cofractal",
+      "IPv4": "206.81.81.221",
+      "ASN": "26073",
+      "IPv6": "2001:504:16::477:0:65d9",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Collier Technologies",
+      "IPv4": "206.81.80.184",
+      "ASN": "25819",
+      "IPv6": "2001:504:16::64db",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Colt",
+      "IPv4": "206.81.80.128",
+      "ASN": "8220",
+      "IPv6": "2001:504:16::201c",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Columbia Basin Broadband Corporation",
+      "IPv4": "206.81.81.91",
+      "ASN": "63052",
+      "IPv6": "2001:504:16::f64c",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Columbia Wireless",
+      "IPv4": "206.81.81.233",
+      "ASN": "55003",
+      "IPv6": "2001:504:16::d6db",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Columbia/UFMG PEERING Research Testbed",
+      "IPv4": "206.81.81.78",
+      "ASN": "47065",
+      "IPv6": "2001:504:16::b7d9",
+      "Speed": "100M",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ConnectedAF",
+      "IPv4": "206.81.80.151",
+      "ASN": "396278",
+      "IPv6": "2001:504:16::6:bf6",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CONSOLIDATED TELEPHONE AS 64227",
+      "IPv4": "206.81.81.131",
+      "ASN": "64227",
+      "IPv6": "2001:504:16::fae3",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CrashPlan Group LLC",
+      "IPv4": "206.81.81.207",
+      "ASN": "62715",
+      "IPv6": "2001:504:16::463:0:f4fb",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CrashPlan Group LLC",
+      "IPv4": "206.81.81.25",
+      "ASN": "62715",
+      "IPv6": "2001:504:16::f4fb",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cryoflesh",
+      "IPv4": "206.81.80.158",
+      "ASN": "398960",
+      "IPv6": "2001:504:16::6:1670",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CSS Communications",
+      "IPv4": "206.81.80.95",
+      "ASN": "26792",
+      "IPv6": "2001:504:16::68a8",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CTS LanguageLink",
+      "IPv4": "206.81.81.135",
+      "ASN": "15190",
+      "IPv6": "2001:504:16::3b56",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Cutting Edge Communications",
+      "IPv4": "206.81.80.87",
+      "ASN": "10594",
+      "IPv6": "2001:504:16::2962",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "CZ.NIC, z.s.p.o.",
+      "IPv4": "206.81.80.138",
+      "ASN": "25192",
+      "IPv6": "2001:504:16::6268",
+      "Speed": "40G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Daimler Truck",
+      "IPv4": "206.81.81.204",
+      "ASN": "205627",
+      "IPv6": "2001:504:16::3:233b",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Daimler Truck",
+      "IPv4": "206.81.81.205",
+      "ASN": "205627",
+      "IPv6": "2001:504:16::461:3:233b",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "DALnet IRC Network",
+      "IPv4": "206.81.80.101",
+      "ASN": "31800",
+      "IPv6": "",
+      "Speed": "100M",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "DANGA INTERACTIVE",
+      "IPv4": "206.81.80.233",
+      "ASN": "32150",
+      "IPv6": "2001:504:16::7d96",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Default Route, LLC",
+      "IPv4": "206.81.80.163",
+      "ASN": "13722",
+      "IPv6": "2001:504:16::359a",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Digital Fortress - AS2044",
+      "IPv4": "206.81.80.31",
+      "ASN": "2044",
+      "IPv6": "2001:504:16::7fc",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Digital Fortress - AS3361",
+      "IPv4": "206.81.80.159",
+      "ASN": "3361",
+      "IPv6": "2001:504:16::d21",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Docusign",
+      "IPv4": "206.81.81.243",
+      "ASN": "62856",
+      "IPv6": "2001:504:16::f588",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "doof.net",
+      "IPv4": "206.81.81.125",
+      "ASN": "395823",
+      "IPv6": "2001:504:16::6:a2f",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "doof.net",
+      "IPv4": "206.81.81.130",
+      "ASN": "395823",
+      "IPv6": "2001:504:16::386:6:a2f",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "DREN",
+      "IPv4": "206.81.81.57",
+      "ASN": "668",
+      "IPv6": "2001:504:16::29c",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Dropbox",
+      "IPv4": "206.81.81.112",
+      "ASN": "19679",
+      "IPv6": "2001:504:16::4cdf",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Eastlink",
+      "IPv4": "206.81.81.218",
+      "ASN": "11260",
+      "IPv6": "2001:504:16::474:0:2bfc",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Eastlink",
+      "IPv4": "206.81.80.236",
+      "ASN": "11260",
+      "IPv6": "2001:504:16::2bfc",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "eBay",
+      "IPv4": "206.81.80.132",
+      "ASN": "62955",
+      "IPv6": "2001:504:16::f5eb",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Edgio - AS22822",
+      "IPv4": "206.81.80.99",
+      "ASN": "22822",
+      "IPv6": "2001:504:16::5926",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Edgio - AS22822",
+      "IPv4": "206.81.81.83",
+      "ASN": "22822",
+      "IPv6": "2001:504:16::339:0:5926",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Edgio (Edgecast) - AS15133",
+      "IPv4": "206.81.81.28",
+      "ASN": "15133",
+      "IPv6": "2001:504:16::284:0:3b1d",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Education Networks of America, Inc.",
+      "IPv4": "206.81.80.242",
+      "ASN": "11686",
+      "IPv6": "2001:504:16::2da6",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Electric Lightwave",
+      "IPv4": "206.81.80.102",
+      "ASN": "7385",
+      "IPv6": "2001:504:16::1cd9",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Elevate Technology Group",
+      "IPv4": "206.81.80.90",
+      "ASN": "26038",
+      "IPv6": "2001:504:16::65b6",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Emerald Onion",
+      "IPv4": "206.81.81.158",
+      "ASN": "396507",
+      "IPv6": "2001:504:16::6:cdb",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Energy Sciences Network (ESnet)",
+      "IPv4": "206.81.81.102",
+      "ASN": "293",
+      "IPv6": "2001:504:16::125",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Equinix Metal",
+      "IPv4": "206.81.80.73",
+      "ASN": "54825",
+      "IPv6": "2001:504:16::d629",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "essensys Inc.",
+      "IPv4": "206.81.80.86",
+      "ASN": "394065",
+      "IPv6": "2001:504:16::6:351",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ETS TELECOM",
+      "IPv4": "206.81.80.55",
+      "ASN": "18914",
+      "IPv6": "2001:504:16::49e2",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Everythink",
+      "IPv4": "206.81.81.194",
+      "ASN": "54632",
+      "IPv6": "2001:504:16::d568",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Expereo International bv",
+      "IPv4": "206.81.81.182",
+      "ASN": "15695",
+      "IPv6": "2001:504:16::3d4f",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "F5 Inc.",
+      "IPv4": "206.81.80.48",
+      "ASN": "35280",
+      "IPv6": "2001:504:16::89d0",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Fastly, Inc.",
+      "IPv4": "206.81.81.71",
+      "ASN": "54113",
+      "IPv6": "2001:504:16::d361",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Fastly, Inc.",
+      "IPv4": "206.81.81.72",
+      "ASN": "54113",
+      "IPv6": "2001:504:16::328:0:d361",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Fastrack Technology",
+      "IPv4": "206.81.80.76",
+      "ASN": "58580",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Fatbeam",
+      "IPv4": "206.81.81.39",
+      "ASN": "55039",
+      "IPv6": "2001:504:16::d6ff",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Fiberhub",
+      "IPv4": "206.81.80.229",
+      "ASN": "53340",
+      "IPv6": "2001:504:16::d05c",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "FibreTel Networks",
+      "IPv4": "206.81.81.134",
+      "ASN": "399116",
+      "IPv6": "2001:504:16::6:170c",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "FireServe, LLC",
+      "IPv4": "206.81.81.149",
+      "ASN": "25905",
+      "IPv6": "2001:504:16::6531",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "First Step Internet",
+      "IPv4": "206.81.81.110",
+      "ASN": "23138",
+      "IPv6": "2001:504:16::5a62",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "First Step Internet",
+      "IPv4": "206.81.81.113",
+      "ASN": "23138",
+      "IPv6": "2001:504:16::369:0:5a62",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "FirstDigital AS13415",
+      "IPv4": "206.81.81.132",
+      "ASN": "13415",
+      "IPv6": "2001:504:16::3467",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "FogNet - iFog GmbH",
+      "IPv4": "206.81.81.18",
+      "ASN": "34927",
+      "IPv6": "2001:504:16::886f",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Free Range Cloud Hosting Inc",
+      "IPv4": "206.81.80.225",
+      "ASN": "53356",
+      "IPv6": "2001:504:16::d06c",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Frontier Networks",
+      "IPv4": "206.81.80.206",
+      "ASN": "7311",
+      "IPv6": "2001:504:16::1c8f",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "FYBERCOM",
+      "IPv4": "206.81.81.235",
+      "ASN": "394449",
+      "IPv6": "2001:504:16::491:6:4d1",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "G-Core Labs",
+      "IPv4": "206.81.81.80",
+      "ASN": "199524",
+      "IPv6": "2001:504:16::3:b64",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Galaxy Broadband Communications",
+      "IPv4": "206.81.80.187",
+      "ASN": "14500",
+      "IPv6": "2001:504:16::38a4",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "General Communications Incorp",
+      "IPv4": "206.81.81.63",
+      "ASN": "8047",
+      "IPv6": "2001:504:16::319:0:1f6f",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "General Communications Incorp",
+      "IPv4": "206.81.80.62",
+      "ASN": "8047",
+      "IPv6": "2001:504:16::1f6f",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GENESIS TECHNOLOGY COMMUNICATION",
+      "IPv4": "206.81.81.126",
+      "ASN": "30032",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GitHub, Inc.",
+      "IPv4": "206.81.81.89",
+      "ASN": "36459",
+      "IPv6": "2001:504:16::8e6b",
+      "Speed": "50G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GitHub, Inc.",
+      "IPv4": "206.81.81.90",
+      "ASN": "36459",
+      "IPv6": "2001:504:16::346:0:8e6b",
+      "Speed": "50G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Global Net",
+      "IPv4": "206.81.81.145",
+      "ASN": "395466",
+      "IPv6": "2001:504:16::6:8ca",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Global Secure Layer",
+      "IPv4": "206.81.81.146",
+      "ASN": "137409",
+      "IPv6": "2001:504:16::2:18c1",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Globe Telecom",
+      "IPv4": "206.81.80.208",
+      "ASN": "4775",
+      "IPv6": "2001:504:16::12a7",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GMCHOSTING",
+      "IPv4": "206.81.81.227",
+      "ASN": "19186",
+      "IPv6": "2001:504:16::4af2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GoCodeIT AS835",
+      "IPv4": "206.81.81.53",
+      "ASN": "835",
+      "IPv6": "2001:504:16::343",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GoldKey",
+      "IPv4": "206.81.81.123",
+      "ASN": "393968",
+      "IPv6": "2001:504:16::6:2f0",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Google LLC",
+      "IPv4": "206.81.80.69",
+      "ASN": "15169",
+      "IPv6": "2001:504:16::69:0:3b41",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Google LLC",
+      "IPv4": "206.81.80.17",
+      "ASN": "15169",
+      "IPv6": "2001:504:16::3b41",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Gorge Networks",
+      "IPv4": "206.81.80.199",
+      "ASN": "11233",
+      "IPv6": "",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Grizzly Broadband LLC",
+      "IPv4": "206.81.81.92",
+      "ASN": "21632",
+      "IPv6": "2001:504:16::5480",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GTA/Teleguam Holdings, LLC",
+      "IPv4": "206.81.80.119",
+      "ASN": "9246",
+      "IPv6": "2001:504:16::241e",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GTHost US and EU",
+      "IPv4": "206.81.81.241",
+      "ASN": "63023",
+      "IPv6": "2001:504:16::f62f",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "GVVME",
+      "IPv4": "206.81.81.156",
+      "ASN": "12186",
+      "IPv6": "2001:504:16::2f9a",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hawaiian Telcom",
+      "IPv4": "206.81.80.200",
+      "ASN": "36149",
+      "IPv6": "2001:504:16::8d35",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "HighEndNetwork",
+      "IPv4": "206.81.81.100",
+      "ASN": "203283",
+      "IPv6": "2001:504:16::3:1a13",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hivelocity LLC",
+      "IPv4": "206.81.81.20",
+      "ASN": "29802",
+      "IPv6": "2001:504:16::746a",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "HOOP7NETWORK",
+      "IPv4": "206.81.80.143",
+      "ASN": "216440",
+      "IPv6": "2001:504:16::3:4d78",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hoplite Industries, Inc.",
+      "IPv4": "206.81.81.163",
+      "ASN": "395657",
+      "IPv6": "2001:504:16::419:6:989",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hoplite Industries, Inc.",
+      "IPv4": "206.81.81.153",
+      "ASN": "395657",
+      "IPv6": "2001:504:16::6:989",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "HopOne Internet Corp.",
+      "IPv4": "206.81.80.115",
+      "ASN": "14361",
+      "IPv6": "2001:504:16::3819",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Host Universal",
+      "IPv4": "206.81.80.172",
+      "ASN": "136557",
+      "IPv6": "2001:504:16::2:156d",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "HostingFuze Network",
+      "IPv4": "206.81.81.155",
+      "ASN": "41732",
+      "IPv6": "2001:504:16::a304",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hostwinds",
+      "IPv4": "206.81.81.82",
+      "ASN": "54290",
+      "IPv6": "2001:504:16::338:0:d412",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hostwinds",
+      "IPv4": "206.81.81.79",
+      "ASN": "54290",
+      "IPv6": "2001:504:16::d412",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hoyos Consulting",
+      "IPv4": "206.81.81.136",
+      "ASN": "53597",
+      "IPv6": "2001:504:16::d15d",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hunter Communications",
+      "IPv4": "206.81.81.69",
+      "ASN": "36012",
+      "IPv6": "2001:504:16::8cac",
+      "Speed": "40G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hurricane Electric",
+      "IPv4": "206.81.80.40",
+      "ASN": "6939",
+      "IPv6": "2001:504:16::1b1b",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "HYEHOST",
+      "IPv4": "206.81.80.190",
+      "ASN": "47272",
+      "IPv6": "2001:504:16::b8a8",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Hyper Expert",
+      "IPv4": "206.81.80.191",
+      "ASN": "398491",
+      "IPv6": "2001:504:16::6:149b",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "i3D.net",
+      "IPv4": "206.81.80.117",
+      "ASN": "49544",
+      "IPv6": "2001:504:16::c188",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Idaho Regional Optical Network",
+      "IPv4": "206.81.81.43",
+      "ASN": "46435",
+      "IPv6": "2001:504:16::b563",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Implex.net",
+      "IPv4": "206.81.80.64",
+      "ASN": "21709",
+      "IPv6": "2001:504:16::54cd",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "INCX Global, LLC",
+      "IPv4": "206.81.81.17",
+      "ASN": "13737",
+      "IPv6": "2001:504:16::35a9",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Inland Cellular",
+      "IPv4": "206.81.81.214",
+      "ASN": "396040",
+      "IPv6": "2001:504:16::6:b08",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Inland Telephone Company",
+      "IPv4": "206.81.80.165",
+      "ASN": "26088",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "InServer Networks",
+      "IPv4": "206.81.80.194",
+      "ASN": "26329",
+      "IPv6": "2001:504:16::66d9",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Intermax Networks",
+      "IPv4": "206.81.80.244",
+      "ASN": "46353",
+      "IPv6": "2001:504:16::b511",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Intermedia.net",
+      "IPv4": "206.81.80.43",
+      "ASN": "16406",
+      "IPv6": "2001:504:16::4016",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Internet Initiative Japan",
+      "IPv4": "206.81.80.237",
+      "ASN": "2497",
+      "IPv6": "2001:504:16::9c1",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Internet2 I2PX",
+      "IPv4": "206.81.80.77",
+      "ASN": "11164",
+      "IPv6": "2001:504:16::2b9c",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "iovation, Inc. 2",
+      "IPv4": "206.81.80.192",
+      "ASN": "53708",
+      "IPv6": "2001:504:16::d1cc",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "IPTP Networks",
+      "IPv4": "206.81.81.26",
+      "ASN": "41095",
+      "IPv6": "2001:504:16::a087",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ISOMEDIA, Inc.",
+      "IPv4": "206.81.80.79",
+      "ASN": "18530",
+      "IPv6": "2001:504:16::4862",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "iTel Networks Inc",
+      "IPv4": "206.81.80.226",
+      "ASN": "16696",
+      "IPv6": "2001:504:16::4138",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Joe's Datacenter",
+      "IPv4": "206.81.80.70",
+      "ASN": "19969",
+      "IPv6": "2001:504:16::4e01",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Kawaii Networks",
+      "IPv4": "206.81.80.126",
+      "ASN": "27523",
+      "IPv6": "2001:504:16::6b83",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "KCFiber",
+      "IPv4": "206.81.80.78",
+      "ASN": "11708",
+      "IPv6": "2001:504:16::2dbc",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Key Cooperative",
+      "IPv4": "206.81.81.49",
+      "ASN": "40350",
+      "IPv6": "2001:504:16::9d9e",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "King County I-NET",
+      "IPv4": "206.81.80.124",
+      "ASN": "2544",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "King County I-NET",
+      "IPv4": "206.81.80.63",
+      "ASN": "2544",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Kirino",
+      "IPv4": "206.81.80.118",
+      "ASN": "41378",
+      "IPv6": "2001:504:16::a1a2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "KitsapWiFi",
+      "IPv4": "206.81.80.170",
+      "ASN": "400699",
+      "IPv6": "2001:504:16::6:1d3b",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "KPU Telecom",
+      "IPv4": "206.81.81.36",
+      "ASN": "32204",
+      "IPv6": "2001:504:16::7dcc",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "KT Corporation (Korea Telecom)",
+      "IPv4": "206.81.80.131",
+      "ASN": "4766",
+      "IPv6": "2001:504:16::129e",
+      "Speed": "30G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "LES.NET",
+      "IPv4": "206.81.80.182",
+      "ASN": "18451",
+      "IPv6": "2001:504:16::4813",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Level 86",
+      "IPv4": "206.81.81.65",
+      "ASN": "212483",
+      "IPv6": "2001:504:16::3:3e03",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "LG Uplus",
+      "IPv4": "206.81.80.149",
+      "ASN": "3786",
+      "IPv6": "2001:504:16::eca",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Link Oregon",
+      "IPv4": "206.81.81.76",
+      "ASN": "3701",
+      "IPv6": "2001:504:16::e75",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "LocalTel Communications",
+      "IPv4": "206.81.80.173",
+      "ASN": "13370",
+      "IPv6": "2001:504:16::343a",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "LocalTel Communications",
+      "IPv4": "206.81.80.176",
+      "ASN": "13370",
+      "IPv6": "2001:504:16::176:0:343a",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Longmont Power & Communications",
+      "IPv4": "206.81.81.154",
+      "ASN": "393552",
+      "IPv6": "",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "LR Communications, Inc.",
+      "IPv4": "206.81.80.121",
+      "ASN": "55044",
+      "IPv6": "2001:504:16::d704",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "LR Communications, Inc.",
+      "IPv4": "206.81.81.147",
+      "ASN": "55044",
+      "IPv6": "2001:504:16::403:0:d704",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "LS Networks",
+      "IPv4": "206.81.80.134",
+      "ASN": "25899",
+      "IPv6": "2001:504:16::652b",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Lunavi, Inc.",
+      "IPv4": "206.81.80.164",
+      "ASN": "6295",
+      "IPv6": "2001:504:16::164:0:1897",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Lunavi, Inc.",
+      "IPv4": "206.81.80.111",
+      "ASN": "6295",
+      "IPv6": "2001:504:16::1897",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Matanuska Telecom Association",
+      "IPv4": "206.81.81.193",
+      "ASN": "11090",
+      "IPv6": "2001:504:16::2b52",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Matrix Cable International Exchange (MCIX)",
+      "IPv4": "206.81.80.154",
+      "ASN": "55818",
+      "IPv6": "2001:504:16::da0a",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "MCKAYCOM LTD",
+      "IPv4": "206.81.80.219",
+      "ASN": "50763",
+      "IPv6": "2001:504:16::c64b",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "MCSnet",
+      "IPv4": "206.81.81.16",
+      "ASN": "36817",
+      "IPv6": "",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "MDNET",
+      "IPv4": "206.81.80.104",
+      "ASN": "40138",
+      "IPv6": "2001:504:16::9cca",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Mercury NZ",
+      "IPv4": "206.81.80.35",
+      "ASN": "55850",
+      "IPv6": "2001:504:16::da2a",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Meta",
+      "IPv4": "206.81.80.211",
+      "ASN": "32934",
+      "IPv6": "2001:504:16::211:0:80a6",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Meta",
+      "IPv4": "206.81.80.181",
+      "ASN": "32934",
+      "IPv6": "2001:504:16::80a6",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Metapeer",
+      "IPv4": "206.81.80.183",
+      "ASN": "13331",
+      "IPv6": "2001:504:16::183:0:3413",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Metapeer",
+      "IPv4": "206.81.80.21",
+      "ASN": "13331",
+      "IPv6": "2001:504:16::3413",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "meteversecloud",
+      "IPv4": "206.81.80.123",
+      "ASN": "54994",
+      "IPv6": "2001:504:16::d6d2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Microsoft",
+      "IPv4": "206.81.80.30",
+      "ASN": "8075",
+      "IPv6": "2001:504:16::1f8b",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Microsoft",
+      "IPv4": "206.81.80.68",
+      "ASN": "8075",
+      "IPv6": "2001:504:16::68:0:1f8b",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Mid-Rivers Telephone Cooperative",
+      "IPv4": "206.81.80.155",
+      "ASN": "11961",
+      "IPv6": "2001:504:16::2eb9",
+      "Speed": "40G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "MIDnet",
+      "IPv4": "206.81.80.105",
+      "ASN": "16970",
+      "IPv6": "2001:504:16::424a",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Minnesota Brain Injury Alliance",
+      "IPv4": "",
+      "ASN": "19418",
+      "IPv6": "2001:504:16::4bda",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Minnesota VoIP",
+      "IPv4": "206.81.81.119",
+      "ASN": "32621",
+      "IPv6": "2001:504:16::7f6d",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Misaka.io",
+      "IPv4": "206.81.81.161",
+      "ASN": "917",
+      "IPv6": "2001:504:16::395",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Montana Internet Corporation",
+      "IPv4": "206.81.81.68",
+      "ASN": "4043",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Montana Opticom AS11924",
+      "IPv4": "206.81.81.45",
+      "ASN": "11924",
+      "IPv6": "2001:504:16::2e94",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Montana Opticom AS11924",
+      "IPv4": "206.81.81.121",
+      "ASN": "11924",
+      "IPv6": "2001:504:16::377:0:2e94",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Montana West LLC",
+      "IPv4": "206.81.80.228",
+      "ASN": "54327",
+      "IPv6": "2001:504:16::d437",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Moody's",
+      "IPv4": "206.81.80.156",
+      "ASN": "17350",
+      "IPv6": "2001:504:16::43c6",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Mouat's Technology Services, Inc.",
+      "IPv4": "206.81.80.14",
+      "ASN": "3601",
+      "IPv6": "2001:504:16::e11",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Mountain West Technologies AS10947",
+      "IPv4": "206.81.81.211",
+      "ASN": "10947",
+      "IPv6": "2001:504:16::2ac3",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "MrSheepNET AS60326",
+      "IPv4": "206.81.81.67",
+      "ASN": "60326",
+      "IPv6": "2001:504:16::eba6",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Nathan Sales",
+      "IPv4": "206.81.80.97",
+      "ASN": "34553",
+      "IPv6": "2001:504:16::86f9",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Native Network",
+      "IPv4": "206.81.81.124",
+      "ASN": "394140",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Nato Internet Service",
+      "IPv4": "206.81.81.174",
+      "ASN": "46997",
+      "IPv6": "2001:504:16::b795",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "NCI Data.com",
+      "IPv4": "206.81.81.96",
+      "ASN": "20474",
+      "IPv6": "2001:504:16::4ffa",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "NEGU",
+      "IPv4": "206.81.80.57",
+      "ASN": "54309",
+      "IPv6": "2001:504:16::d425",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "NetActuate",
+      "IPv4": "206.81.81.64",
+      "ASN": "36236",
+      "IPv6": "2001:504:16::8d8c",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "NetActuate",
+      "IPv4": "206.81.81.109",
+      "ASN": "36236",
+      "IPv6": "2001:504:16::365:0:8d8c",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Netflix",
+      "IPv4": "206.81.80.223",
+      "ASN": "2906",
+      "IPv6": "2001:504:16::223:0:b5a",
+      "Speed": "300G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Netflix",
+      "IPv4": "206.81.80.222",
+      "ASN": "2906",
+      "IPv6": "2001:504:16::b5a",
+      "Speed": "300G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "NetFortris",
+      "IPv4": "206.81.80.83",
+      "ASN": "32035",
+      "IPv6": "2001:504:16::7d23",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Netnod",
+      "IPv4": "206.81.80.120",
+      "ASN": "8674",
+      "IPv6": "2001:504:16::21e2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Netskope",
+      "IPv4": "206.81.80.39",
+      "ASN": "55256",
+      "IPv6": "2001:504:16::d7d8",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Netskope",
+      "IPv4": "206.81.80.41",
+      "ASN": "55256",
+      "IPv6": "2001:504:16::41:0:d7d8",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Nitel",
+      "IPv4": "206.81.81.77",
+      "ASN": "53828",
+      "IPv6": "2001:504:16::d244",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "NoaNet",
+      "IPv4": "206.81.80.224",
+      "ASN": "16713",
+      "IPv6": "2001:504:16::224:0:4149",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "NoaNet",
+      "IPv4": "206.81.80.60",
+      "ASN": "16713",
+      "IPv6": "2001:504:16::4149",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Northwest Nexus",
+      "IPv4": "206.81.80.96",
+      "ASN": "1982",
+      "IPv6": "",
+      "Speed": "100M",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Novus Entertainment Inc.",
+      "IPv4": "206.81.80.216",
+      "ASN": "40029",
+      "IPv6": "2001:504:16::9c5d",
+      "Speed": "40G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "NSONE",
+      "IPv4": "206.81.80.27",
+      "ASN": "62597",
+      "IPv6": "2001:504:16::f485",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Nuclearfallout Enterprises, Inc.",
+      "IPv4": "206.81.80.12",
+      "ASN": "32751",
+      "IPv6": "2001:504:16::7fef",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "OneCubit",
+      "IPv4": "206.81.80.188",
+      "ASN": "149522",
+      "IPv6": "2001:504:16::2:4812",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Online Technology Exchange",
+      "IPv4": "206.81.80.91",
+      "ASN": "32494",
+      "IPv6": "2001:504:16::7eee",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "OpenBSD",
+      "IPv4": "206.81.81.169",
+      "ASN": "22512",
+      "IPv6": "2001:504:16::57f0",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "OpenBSD",
+      "IPv4": "206.81.81.170",
+      "ASN": "22512",
+      "IPv6": "2001:504:16::426:0:57f0",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Opus Interactive, Inc.",
+      "IPv4": "206.81.81.23",
+      "ASN": "14380",
+      "IPv6": "2001:504:16::382c",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Ostra Cybersecurity, Inc.",
+      "IPv4": "206.81.81.238",
+      "ASN": "26446",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "OVHcloud",
+      "IPv4": "206.81.81.94",
+      "ASN": "16276",
+      "IPv6": "2001:504:16::350:0:3f94",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "OVHcloud",
+      "IPv4": "206.81.80.214",
+      "ASN": "16276",
+      "IPv6": "2001:504:16::3f94",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pacific Northwest Gigapop",
+      "IPv4": "206.81.80.85",
+      "ASN": "101",
+      "IPv6": "2001:504:16::85:0:65",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pacific Northwest Gigapop",
+      "IPv4": "206.81.80.84",
+      "ASN": "101",
+      "IPv6": "2001:504:16::65",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pacific Northwest Net",
+      "IPv4": "206.81.81.213",
+      "ASN": "396914",
+      "IPv6": "2001:504:16::6:e72",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PacketHub AS147049",
+      "IPv4": "206.81.80.18",
+      "ASN": "147049",
+      "IPv6": "2001:504:16::2:3e69",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PALCOM",
+      "IPv4": "206.81.81.247",
+      "ASN": "26370",
+      "IPv6": "2001:504:16::6702",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ParadoxNetworks Limited",
+      "IPv4": "206.81.81.190",
+      "ASN": "52025",
+      "IPv6": "2001:504:16::cb39",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Parallax (AS26930)",
+      "IPv4": "206.81.81.192",
+      "ASN": "26930",
+      "IPv6": "2001:504:16::6932",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Paul Bunyan Communications",
+      "IPv4": "206.81.81.139",
+      "ASN": "14371",
+      "IPv6": "2001:504:16::3823",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pavlov Media",
+      "IPv4": "206.81.80.32",
+      "ASN": "23473",
+      "IPv6": "2001:504:16::5bb1",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PCCW Global",
+      "IPv4": "206.81.80.13",
+      "ASN": "3491",
+      "IPv6": "2001:504:16::da3",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PCH AS3856",
+      "IPv4": "206.81.80.81",
+      "ASN": "3856",
+      "IPv6": "2001:504:16::f10",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PCH AS42",
+      "IPv4": "206.81.80.80",
+      "ASN": "42",
+      "IPv6": "2001:504:16::2a",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Performive",
+      "IPv4": "206.81.81.81",
+      "ASN": "46562",
+      "IPv6": "2001:504:16::b5e2",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Philippine Long Distance Company",
+      "IPv4": "206.81.80.82",
+      "ASN": "9299",
+      "IPv6": "2001:504:16::2453",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PhoenixNAP",
+      "IPv4": "206.81.80.22",
+      "ASN": "12189",
+      "IPv6": "2001:504:16::2f9d",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pineapple Hospitality Company",
+      "IPv4": "206.81.80.89",
+      "ASN": "54506",
+      "IPv6": "2001:504:16::d4ea",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pocketinet Communications",
+      "IPv4": "206.81.80.88",
+      "ASN": "23265",
+      "IPv6": "2001:504:16::5ae1",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PogoZone",
+      "IPv4": "206.81.81.222",
+      "ASN": "23175",
+      "IPv6": "2001:504:16::478:0:5a87",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PogoZone",
+      "IPv4": "206.81.81.196",
+      "ASN": "23175",
+      "IPv6": "2001:504:16::5a87",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pomona Consulting AS398223",
+      "IPv4": "206.81.80.66",
+      "ASN": "398223",
+      "IPv6": "2001:504:16::6:138f",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "PSC AS131477",
+      "IPv4": "206.81.81.189",
+      "ASN": "131477",
+      "IPv6": "2001:504:16::2:195",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pudu, LLC",
+      "IPv4": "206.81.81.84",
+      "ASN": "47689",
+      "IPv6": "2001:504:16::340:0:ba49",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Pudu, LLC",
+      "IPv4": "206.81.80.245",
+      "ASN": "47689",
+      "IPv6": "2001:504:16::ba49",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Puget Sound Networks",
+      "IPv4": "206.81.80.46",
+      "ASN": "208188",
+      "IPv6": "2001:504:16::3:2d3c",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Purevoltage Hosting Inc.",
+      "IPv4": "206.81.81.219",
+      "ASN": "26548",
+      "IPv6": "2001:504:16::67b4",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Quantcast",
+      "IPv4": "206.81.81.231",
+      "ASN": "27281",
+      "IPv6": "2001:504:16::6a91",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Quantcast",
+      "IPv4": "206.81.81.232",
+      "ASN": "27281",
+      "IPv6": "2001:504:16::488:0:6a91",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Qwilt",
+      "IPv4": "206.81.81.195",
+      "ASN": "20253",
+      "IPv6": "2001:504:16::4f1d",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rackdog",
+      "IPv4": "206.81.80.231",
+      "ASN": "398465",
+      "IPv6": "2001:504:16::6:1481",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rainbow network",
+      "IPv4": "206.81.80.50",
+      "ASN": "134176",
+      "IPv6": "2001:504:16::2:c20",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rainier Connect",
+      "IPv4": "206.81.80.186",
+      "ASN": "20394",
+      "IPv6": "2001:504:16::4faa",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "RamNode",
+      "IPv4": "206.81.81.12",
+      "ASN": "3842",
+      "IPv6": "2001:504:16::f02",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "REANNZ",
+      "IPv4": "206.81.81.203",
+      "ASN": "38022",
+      "IPv6": "2001:504:16::9486",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "RedoubtNET",
+      "IPv4": "206.81.81.200",
+      "ASN": "400304",
+      "IPv6": "2001:504:16::6:1bb0",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Reprise Hosting",
+      "IPv4": "206.81.81.21",
+      "ASN": "62838",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "RETN",
+      "IPv4": "206.81.80.150",
+      "ASN": "9002",
+      "IPv6": "2001:504:16::232a",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "RGnet",
+      "IPv4": "206.81.81.212",
+      "ASN": "3130",
+      "IPv6": "2001:504:16::468:0:c3a",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "RingCentral",
+      "IPv4": "206.81.81.99",
+      "ASN": "40627",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Ringsquared",
+      "IPv4": "206.81.81.22",
+      "ASN": "22702",
+      "IPv6": "2001:504:16::58ae",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Riot Games",
+      "IPv4": "206.81.81.59",
+      "ASN": "6507",
+      "IPv6": "2001:504:16::315:0:196b",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Riot Games",
+      "IPv4": "206.81.81.42",
+      "ASN": "6507",
+      "IPv6": "2001:504:16::196b",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Riseup Networks",
+      "IPv4": "206.81.81.74",
+      "ASN": "16652",
+      "IPv6": "2001:504:16::410c",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "RisingNet.com",
+      "IPv4": "206.81.80.110",
+      "ASN": "33211",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ROBLOX",
+      "IPv4": "206.81.80.45",
+      "ASN": "22697",
+      "IPv6": "2001:504:16::45:0:58a9",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ROBLOX",
+      "IPv4": "206.81.80.44",
+      "ASN": "22697",
+      "IPv6": "2001:504:16::58a9",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rock Island Technology Solutions",
+      "IPv4": "206.81.80.108",
+      "ASN": "19518",
+      "IPv6": "2001:504:16::4c3e",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rock Island Technology Solutions",
+      "IPv4": "206.81.81.175",
+      "ASN": "19518",
+      "IPv6": "2001:504:16::431:0:4c3e",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rocky Mountain Internet Inc",
+      "IPv4": "206.81.81.133",
+      "ASN": "395478",
+      "IPv6": "2001:504:16::6:8d6",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ROUTE64.ORG",
+      "IPv4": "206.81.80.247",
+      "ASN": "212895",
+      "IPv6": "2001:504:16::3:3f9f",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rozint - Global",
+      "IPv4": "206.81.81.185",
+      "ASN": "21738",
+      "IPv6": "2001:504:16::54ea",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rumble",
+      "IPv4": "206.81.81.199",
+      "ASN": "399647",
+      "IPv6": "2001:504:16::6:191f",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Rural Telecommunications of America",
+      "IPv4": "206.81.81.93",
+      "ASN": "19754",
+      "IPv6": "2001:504:16::4d2a",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Safelink Internet [AS32444]",
+      "IPv4": "206.81.81.129",
+      "ASN": "32444",
+      "IPv6": "",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Salesforce.com",
+      "IPv4": "206.81.80.33",
+      "ASN": "14340",
+      "IPv6": "2001:504:16::3804",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Salish Networks",
+      "IPv4": "206.81.80.116",
+      "ASN": "11038",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Saskatchewan Telecommunications",
+      "IPv4": "206.81.81.188",
+      "ASN": "803",
+      "IPv6": "2001:504:16::444:0:323",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Saskatchewan Telecommunications",
+      "IPv4": "206.81.80.145",
+      "ASN": "803",
+      "IPv6": "2001:504:16::323",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Scatter Creek InfoNet",
+      "IPv4": "206.81.80.201",
+      "ASN": "10973",
+      "IPv6": "2001:504:16::2add",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Seattle Community Network",
+      "IPv4": "206.81.81.150",
+      "ASN": "54429",
+      "IPv6": "2001:504:16::d49d",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Seattle Public Library",
+      "IPv4": "206.81.80.196",
+      "ASN": "21525",
+      "IPv6": "2001:504:16::5415",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Semaphore Corporation",
+      "IPv4": "206.81.80.16",
+      "ASN": "3742",
+      "IPv6": "2001:504:16::e9e",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ServedBy the Net",
+      "IPv4": "206.81.80.203",
+      "ASN": "53837",
+      "IPv6": "2001:504:16::d24d",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Serverel Inc.",
+      "IPv4": "206.81.81.48",
+      "ASN": "50245",
+      "IPv6": "2001:504:16::c445",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Serverhosh Internet Service",
+      "IPv4": "206.81.81.217",
+      "ASN": "136175",
+      "IPv6": "2001:504:16::2:13ef",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SG.GS",
+      "IPv4": "206.81.81.61",
+      "ASN": "24482",
+      "IPv6": "2001:504:16::5fa2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Shaw Cablesystems",
+      "IPv4": "206.81.80.54",
+      "ASN": "6327",
+      "IPv6": "2001:504:16::18b7",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Silver Star Communications",
+      "IPv4": "206.81.81.98",
+      "ASN": "26223",
+      "IPv6": "2001:504:16::666f",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Silver Star Telecom",
+      "IPv4": "206.81.80.171",
+      "ASN": "32869",
+      "IPv6": "2001:504:16::8065",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Sipartech",
+      "IPv4": "206.81.81.86",
+      "ASN": "8309",
+      "IPv6": "2001:504:16::2075",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SIX Seattle Route Servers",
+      "IPv4": "206.81.80.2",
+      "ASN": "33108",
+      "IPv6": "2001:504:16::2",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SIX Seattle Route Servers",
+      "IPv4": "206.81.80.3",
+      "ASN": "33108",
+      "IPv6": "2001:504:16::3",
+      "Speed": "",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SK Broadband",
+      "IPv4": "206.81.81.40",
+      "ASN": "9318",
+      "IPv6": "2001:504:16::2466",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SK Broadband",
+      "IPv4": "206.81.81.160",
+      "ASN": "9318",
+      "IPv6": "2001:504:16::416:0:2466",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SmarterBroadband",
+      "IPv4": "206.81.81.237",
+      "ASN": "46276",
+      "IPv6": "2001:504:16::b4c4",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Society of Young Enterprise Engineers",
+      "IPv4": "206.81.80.34",
+      "ASN": "25944",
+      "IPv6": "2001:504:16::6558",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SoftBank Corp.",
+      "IPv4": "206.81.80.197",
+      "ASN": "17676",
+      "IPv6": "2001:504:16::450c",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SoftLayer Technologies, Inc. (an IBM Company)",
+      "IPv4": "206.81.80.140",
+      "ASN": "36351",
+      "IPv6": "2001:504:16::8dff",
+      "Speed": "30G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Sohonet Ltd",
+      "IPv4": "206.81.81.198",
+      "ASN": "16164",
+      "IPv6": "2001:504:16::3f24",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Sony Interactive Entertainment",
+      "IPv4": "206.81.81.33",
+      "ASN": "33353",
+      "IPv6": "2001:504:16::289:0:8249",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Sony Interactive Entertainment",
+      "IPv4": "206.81.81.29",
+      "ASN": "33353",
+      "IPv6": "2001:504:16::8249",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "South Front Networks",
+      "IPv4": "206.81.80.130",
+      "ASN": "397326",
+      "IPv6": "2001:504:16::6:100e",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SpaceX Starlink",
+      "IPv4": "206.81.80.193",
+      "ASN": "14593",
+      "IPv6": "2001:504:16::193:0:3901",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SpaceX Starlink",
+      "IPv4": "206.81.81.239",
+      "ASN": "14593",
+      "IPv6": "2001:504:16::3901",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Spartan Host Ltd",
+      "IPv4": "206.81.81.103",
+      "ASN": "50131",
+      "IPv6": "2001:504:16::c3d3",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Sprint - AS1239",
+      "IPv4": "206.81.80.232",
+      "ASN": "1239",
+      "IPv6": "2001:504:16::4d7",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Stargate Connections Inc.",
+      "IPv4": "206.81.81.15",
+      "ASN": "19171",
+      "IPv6": "2001:504:16::4ae3",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "StarTouch, Inc.",
+      "IPv4": "206.81.81.225",
+      "ASN": "15177",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "StarTouch, Inc.",
+      "IPv4": "206.81.80.195",
+      "ASN": "15177",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "State of Oregon",
+      "IPv4": "206.81.80.177",
+      "ASN": "1798",
+      "IPv6": "2001:504:16::706",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Stellar Association",
+      "IPv4": "206.81.81.142",
+      "ASN": "36374",
+      "IPv6": "2001:504:16::8e16",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "SupraNet Communications",
+      "IPv4": "206.81.80.166",
+      "ASN": "4150",
+      "IPv6": "2001:504:16::1036",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Sureline Telecom",
+      "IPv4": "206.81.81.244",
+      "ASN": "63069",
+      "IPv6": "2001:504:16::f65d",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Swisscom",
+      "IPv4": "206.81.80.52",
+      "ASN": "3303",
+      "IPv6": "2001:504:16::ce7",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Syringa Networks",
+      "IPv4": "206.81.80.239",
+      "ASN": "15305",
+      "IPv6": "2001:504:16::3bc9",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "T-Mobile USA",
+      "IPv4": "206.81.81.35",
+      "ASN": "21928",
+      "IPv6": "2001:504:16::55a8",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TCT West, Inc.",
+      "IPv4": "206.81.80.215",
+      "ASN": "4474",
+      "IPv6": "2001:504:16::117a",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TDS Telecom",
+      "IPv4": "206.81.80.178",
+      "ASN": "4181",
+      "IPv6": "2001:504:16::1055",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Tech Futures Interactive Inc.",
+      "IPv4": "206.81.81.120",
+      "ASN": "394256",
+      "IPv6": "2001:504:16::6:410",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TekSavvy Solutions Inc.",
+      "IPv4": "206.81.81.47",
+      "ASN": "5645",
+      "IPv6": "2001:504:16::160d",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Telebyte NW",
+      "IPv4": "206.81.80.58",
+      "ASN": "13871",
+      "IPv6": "",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Telekomunikasi Indonesia Int (TELIN)",
+      "IPv4": "206.81.81.85",
+      "ASN": "7713",
+      "IPv6": "2001:504:16::1e21",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TelflyNetwork",
+      "IPv4": "206.81.80.114",
+      "ASN": "41717",
+      "IPv6": "2001:504:16::a2f5",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TELUS Communications",
+      "IPv4": "206.81.81.177",
+      "ASN": "852",
+      "IPv6": "2001:504:16::433:0:354",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TeraGo Networks Inc.",
+      "IPv4": "206.81.80.179",
+      "ASN": "20161",
+      "IPv6": "2001:504:16::4ec1",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Teraswitch Inc",
+      "IPv4": "206.81.80.207",
+      "ASN": "20326",
+      "IPv6": "2001:504:16::4f66",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Thales/Imperva",
+      "IPv4": "206.81.81.178",
+      "ASN": "19551",
+      "IPv6": "2001:504:16::4c5f",
+      "Speed": "40G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "The Constant Company",
+      "IPv4": "206.81.81.66",
+      "ASN": "20473",
+      "IPv6": "2001:504:16::4ff9",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Threshold Communications",
+      "IPv4": "206.81.81.167",
+      "ASN": "7752",
+      "IPv6": "2001:504:16::423:0:1e48",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Threshold Communications",
+      "IPv4": "206.81.80.28",
+      "ASN": "7752",
+      "IPv6": "2001:504:16::1e48",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Tianhai Global Network",
+      "IPv4": "206.81.81.191",
+      "ASN": "4842",
+      "IPv6": "2001:504:16::12ea",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TierPoint LLC",
+      "IPv4": "206.81.80.59",
+      "ASN": "17378",
+      "IPv6": "2001:504:16::43e2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TierPoint LLC",
+      "IPv4": "206.81.80.20",
+      "ASN": "17378",
+      "IPv6": "2001:504:16::20:0:43e2",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Tiggee",
+      "IPv4": "206.81.80.72",
+      "ASN": "16552",
+      "IPv6": "2001:504:16::40a8",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Ting Fiber (Backbone)",
+      "IPv4": "206.81.80.148",
+      "ASN": "32133",
+      "IPv6": "2001:504:16::7d85",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Total Uptime Technologies",
+      "IPv4": "206.81.81.184",
+      "ASN": "53334",
+      "IPv6": "2001:504:16::d056",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Tritan Internet LLC (AS393577)",
+      "IPv4": "206.81.81.215",
+      "ASN": "393577",
+      "IPv6": "2001:504:16::6:169",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "TSS-NET",
+      "IPv4": "206.81.80.142",
+      "ASN": "3657",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Twitter, Inc.",
+      "IPv4": "206.81.81.31",
+      "ASN": "13414",
+      "IPv6": "2001:504:16::3466",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "UCAID",
+      "IPv4": "206.81.80.67",
+      "ASN": "11537",
+      "IPv6": "2001:504:16::2d11",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Uniserve Communications Corp",
+      "IPv4": "206.81.80.141",
+      "ASN": "19662",
+      "IPv6": "2001:504:16::4cce",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Unitas Global",
+      "IPv4": "206.81.80.36",
+      "ASN": "1828",
+      "IPv6": "2001:504:16::724",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Urban Networks Inc",
+      "IPv4": "206.81.81.248",
+      "ASN": "6391",
+      "IPv6": "2001:504:16::18f7",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "US Internet",
+      "IPv4": "206.81.81.116",
+      "ASN": "10242",
+      "IPv6": "2001:504:16::2802",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Valve Corporation",
+      "IPv4": "206.81.81.197",
+      "ASN": "32590",
+      "IPv6": "2001:504:16::453:0:7f4e",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Valve Corporation",
+      "IPv4": "206.81.80.246",
+      "ASN": "32590",
+      "IPv6": "2001:504:16::7f4e",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Verisign",
+      "IPv4": "206.81.80.133",
+      "ASN": "7342",
+      "IPv6": "2001:504:16::1cae",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Verus Corporation, Inc.",
+      "IPv4": "206.81.81.162",
+      "ASN": "26156",
+      "IPv6": "2001:504:16::662c",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ViaSat",
+      "IPv4": "206.81.81.104",
+      "ASN": "7155",
+      "IPv6": "2001:504:16::1bf3",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "ViewQwest",
+      "IPv4": "206.81.81.60",
+      "ASN": "18106",
+      "IPv6": "2001:504:16::46ba",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Vision Net AS8057",
+      "IPv4": "206.81.80.175",
+      "ASN": "8057",
+      "IPv6": "2001:504:16::1f79",
+      "Speed": "40G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "VoIPster Communications",
+      "IPv4": "206.81.80.51",
+      "ASN": "32030",
+      "IPv6": "2001:504:16::7d1e",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Washington Broadband",
+      "IPv4": "206.81.81.44",
+      "ASN": "19116",
+      "IPv6": "2001:504:16::4aac",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Wave Division Holdings",
+      "IPv4": "206.81.80.56",
+      "ASN": "11404",
+      "IPv6": "2001:504:16::2c8c",
+      "Speed": "200G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Wayfair LLC",
+      "IPv4": "206.81.81.230",
+      "ASN": "27475",
+      "IPv6": "2001:504:16::6b53",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Webpass",
+      "IPv4": "206.81.80.212",
+      "ASN": "19165",
+      "IPv6": "2001:504:16::4add",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Weyerhaeuser AS 22546",
+      "IPv4": "206.81.81.171",
+      "ASN": "22546",
+      "IPv6": "",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Whidbey Telephone Company",
+      "IPv4": "206.81.81.166",
+      "ASN": "3853",
+      "IPv6": "2001:504:16::422:0:f0d",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Whidbey Telephone Company",
+      "IPv4": "206.81.81.97",
+      "ASN": "3853",
+      "IPv6": "2001:504:16::f0d",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Whitesky Communications AS62887",
+      "IPv4": "206.81.81.209",
+      "ASN": "62887",
+      "IPv6": "2001:504:16::f5a7",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Wholesale Internet, Inc.",
+      "IPv4": "206.81.81.208",
+      "ASN": "32097",
+      "IPv6": "2001:504:16::7d61",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Wikstrom Telephone Company",
+      "IPv4": "206.81.81.141",
+      "ASN": "33362",
+      "IPv6": "2001:504:16::8252",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "WIN Technology",
+      "IPv4": "206.81.81.117",
+      "ASN": "11796",
+      "IPv6": "2001:504:16::2e14",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Windstream Communications",
+      "IPv4": "206.81.80.106",
+      "ASN": "7029",
+      "IPv6": "2001:504:16::1b75",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "WindWave Communications",
+      "IPv4": "206.81.81.52",
+      "ASN": "36222",
+      "IPv6": "2001:504:16::8d7e",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Wobscale Technologies",
+      "IPv4": "206.81.81.87",
+      "ASN": "64241",
+      "IPv6": "2001:504:16::faf1",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Wolfpaw Services",
+      "IPv4": "206.81.81.159",
+      "ASN": "30500",
+      "IPv6": "2001:504:16::7724",
+      "Speed": "20G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Woofy",
+      "IPv4": "206.81.80.127",
+      "ASN": "396388",
+      "IPv6": "2001:504:16::6:c64",
+      "Speed": "1G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Wowrack.com",
+      "IPv4": "206.81.80.37",
+      "ASN": "23033",
+      "IPv6": "2001:504:16::59f9",
+      "Speed": "40G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "X6CNET",
+      "IPv4": "206.81.81.127",
+      "ASN": "46733",
+      "IPv6": "2001:504:16::b68d",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Xiber LLC",
+      "IPv4": "206.81.80.185",
+      "ASN": "393950",
+      "IPv6": "2001:504:16::6:2de",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "XMission",
+      "IPv4": "206.81.80.235",
+      "ASN": "6315",
+      "IPv6": "2001:504:16::18ab",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Xplore Inc.",
+      "IPv4": "206.81.81.11",
+      "ASN": "22995",
+      "IPv6": "2001:504:16::59d3",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Yahoo!",
+      "IPv4": "206.81.81.50",
+      "ASN": "10310",
+      "IPv6": "2001:504:16::306:0:2846",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Yahoo!",
+      "IPv4": "206.81.80.98",
+      "ASN": "10310",
+      "IPv6": "2001:504:16::2846",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zayo",
+      "IPv4": "206.81.80.19",
+      "ASN": "6461",
+      "IPv6": "2001:504:16::193d",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zenlayer Inc",
+      "IPv4": "206.81.80.94",
+      "ASN": "21859",
+      "IPv6": "2001:504:16::5563",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zillow Group",
+      "IPv4": "206.81.80.29",
+      "ASN": "18888",
+      "IPv6": "2001:504:16::49c8",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zillow Group",
+      "IPv4": "206.81.81.202",
+      "ASN": "18888",
+      "IPv6": "2001:504:16::458:0:49c8",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Ziply Fiber",
+      "IPv4": "206.81.81.246",
+      "ASN": "20055",
+      "IPv6": "2001:504:16::4e57",
+      "Speed": "400G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zito Media",
+      "IPv4": "206.81.81.249",
+      "ASN": "26801",
+      "IPv6": "2001:504:16::68b1",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zoho",
+      "IPv4": "206.81.80.136",
+      "ASN": "2639",
+      "IPv6": "2001:504:16::a4f",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zoho Corp",
+      "IPv4": "206.81.80.107",
+      "ASN": "397849",
+      "IPv6": "2001:504:16::6:1219",
+      "Speed": "10G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zscaler AS22616",
+      "IPv4": "206.81.81.179",
+      "ASN": "22616",
+      "IPv6": "",
+      "Speed": "100G",
+      "Port Location": ""
+    },
+    {
+      "Peer Name": "Zscaler AS22616",
+      "IPv4": "206.81.81.180",
+      "ASN": "22616",
+      "IPv6": "",
+      "Speed": "100G",
+      "Port Location": ""
+    }
+  ]
+}
