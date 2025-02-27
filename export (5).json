@@ -135,7 +135,7 @@
 						"mask_length":23
 					},
 					"ipv6":{
-						"prefix":"2001:504:16::",
+						"prefix":"2001:504:16::Ab4$^",
 						"mask_length":64
 					}
 				}
