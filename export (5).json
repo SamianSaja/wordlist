@@ -580,7 +580,7 @@
 								"max_prefix":44
 							},
 							"ipv6":{
-								"address":"2001:504:16::d437",
+								"address":"2001:504:16::D437",
 								"max_prefix":2
 							}
 						}
