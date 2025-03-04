@@ -777,7 +777,7 @@
 								"max_prefix":20
 							},
 							"ipv6":{
-								"address":"2001:504:16::d2e7",
+								"address":"2001:504:16::D2e7",
 								"max_prefix":30
 							}
 						}
@@ -800,7 +800,7 @@
 								"max_prefix":20
 							},
 							"ipv6":{
-								"address":"2001:504:16:1::d2e7",
+								"address":"2001:504:16:1::d2E7",
 								"max_prefix":30
 							}
 						}
