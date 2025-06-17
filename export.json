@@ -1,0 +1,26 @@
+{
+  "Exchange": {
+    "Name": "Equinix Amsterdam",
+    "Organization": "Equinix, Inc.",
+    "Also Known As": "",
+    "Long Name": "Equinix Internet Exchange Amsterdam",
+    "City": "Amsterdam",
+    "Country": "Netherlands",
+    "Continental Region": "Europe",
+    "Service Level": "24/7 Support",
+    "Terms": "Recurring Fees",
+    "Last Updated": "2024-07-26T15:34:13Z",
+    "Notes": "",
+    "Contact Information": "",
+    "Company Website": "https://www.equinix.nl/services/interconnection-connectivity/internet-exchange/",
+    "Traffic Stats Website": "https://ix.equinix.com/home/locations-and-traffic/#traffic",
+    "Technical Email": "servicedesk.nl@eu.equinix.com",
+    "Technical Phone": "",
+    "Policy Email": "SMC_EMEA@equinix.com",
+    "Policy Phone": "",
+    "Sales Email": "",
+    "Sales Phone": "",
+    "Health Check": "",
+    "LAN": "1500"
+  }
+}
