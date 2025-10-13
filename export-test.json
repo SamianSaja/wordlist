@@ -370,78 +370,56 @@
             ]
         },
         {
-            "asnum": 399788,
-            "member_since": "2021-01-13T00:00:00Z",
-            "url": "https:\/\/quadstateinternet.net\/",
-            "name": "Quad State Internet",
-            "peering_policy": "open",
-            "member_type": "peering",
-            "connection_list": [
+          "asnum": 399788,
+          "member_since": "2021-01-13T00:00:00Z",
+          "url": "https://quadstateinternet.net/",
+          "name": "Quad State Internet",
+          "peering_policy": "open",
+          "member_type": "peering",
+          "connection_list": [
+            {
+              "ixp_id": 1,
+              "state": "active",
+              "if_list": [
                 {
-                    "ixp_id": 1,
-                    "state": "active",
-                    "if_list": [
-                        {
-                            "switch_id": 1,
-                            "if_speed": 100000
-                        }
-                    ],
-                    "vlan_list": [
-                        {
-                            "vlan_id": 1,
-                            "ipv4": {
-                                "address": "149.112.114.11",
-                                "as_macro": "AS-QUADSTATE-NET",
-                                "routeserver": false,
-                                "mac_addresses": []
-                            },
-                            "ipv6": {
-                                "address": "2001:505:140::11",
-                                "as_macro": "AS-QUADSTATE-NET",
-                                "routeserver": false,
-                                "mac_addresses": []
-                            }
-                        }
-                    ]
+                  "switch_id": 1,
+                  "if_speed": 100000
                 }
-            ]
-        },
-        {
-            "asnum": 399788,
-            "member_since": "2021-01-13T00:00:00Z",
-            "url": "https:\/\/quadstateinternet.net\/",
-            "name": "Quad State Internet",
-            "peering_policy": "open",
-            "member_type": "peering",
-            "connection_list": [
+              ],
+              "vlan_list": [
                 {
-                    "ixp_id": 1,
-                    "state": "active",
-                    "if_list": [
-                        {
-                            "switch_id": 1,
-                            "if_speed": 100000
-                        }
-                    ],
-                    "vlan_list": [
-                        {
-                            "vlan_id": 1,
-                            "ipv4": {
-                                "address": "149.112.114.29",
-                                "as_macro": "AS-QUADSTATE-NET",
-                                "routeserver": false,
-                                "mac_addresses": []
-                            },
-                            "ipv6": {
-                                "address": "",
-                                "as_macro": "AS-QUADSTATE-NET",
-                                "routeserver": false,
-                                "mac_addresses": []
-                            }
-                        }
-                    ]
+                  "vlan_id": 1,
+                  "ipv4": {
+                    "address": "149.112.114.11",
+                    "as_macro": "AS-QUADSTATE-NET",
+                    "routeserver": false,
+                    "mac_addresses": []
+                  },
+                  "ipv6": {
+                    "address": "2001:505:140::11",
+                    "as_macro": "AS-QUADSTATE-NET",
+                    "routeserver": false,
+                    "mac_addresses": []
+                  }
+                },
+                {
+                  "vlan_id": 1,
+                  "ipv4": {
+                    "address": "149.112.114.29",
+                    "as_macro": "AS-QUADSTATE-NET",
+                    "routeserver": false,
+                    "mac_addresses": []
+                  },
+                  "ipv6": {
+                    "address": "",
+                    "as_macro": "AS-QUADSTATE-NET",
+                    "routeserver": false,
+                    "mac_addresses": []
+                  }
                 }
-            ]
+              ]
+            }
+          ]
         }
     ]
 }
