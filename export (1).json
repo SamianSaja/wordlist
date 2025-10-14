@@ -67,8 +67,9 @@
                     "state": "active",
                     "if_list": [
                         {
-                            "switch_id": 2,
-                            "if_speed": 10000
+                            "switch_id": null,
+                            "if_speed": null,
+                            "if_type": null
                         }
                     ],
                     "vlan_list": [
