@@ -1,27 +1,425 @@
 {
-  "Exchange": {
-    "Name": "BEE-IX",
-    "Organization": "Rudakov Ihor",
-    "Also Known As": "BEE-IX",
-    "Long Name": "BEE-IX Internet Exchanges",
-    "City": "Frankfurt",
-    "Country": "UA",
-    "Continental Region": "Europe",
-    "Media Type": "Ethernet",
-    "Service Level": "Normal Business Hours",
-    "Terms": "No Commercial Terms",
-    "Last Updated": "2024-08-05T09:31:16Z",
-    "Notes": "==============================================We recommend using RUDAKi-IX:Рекомендуем использовать RUDAKi-IX:https://www.peeringdb.com/ix/3681BEE-IX is a non-commercial Internet Exchange Point (IXP) established in 2023. It provides traffic exchange services mainly for small ISPs, private networks. BEE-IX is for learning and experimentation only and is not allowed to be used for commercial services and has no SLA.BEE-IX — некоммерческая точка обмена интернет-трафиком (IXP), созданная в 2023 году. Она предоставляет услуги обмена трафиком в основном для небольших интернет-провайдеров, частных сетей. BEE-IX предназначен только для обучения и экспериментов, его нельзя использовать в коммерческих целях, и на него не распространяется соглашение об уровне обслуживания. Translate »",
-    "Contact Information": "",
-    "Company Website": "http://bee-ix.rudaki.net/",
-    "Traffic Stats Website": "https://t.me/+laAo21KNCIljYmIy",
-    "Technical Email": "info@rudaki-ix.net",
-    "Technical Phone": "",
-    "Policy Email": "info@rudaki-ix.net",
-    "Policy Phone": "",
-    "Sales Email": "info@rudaki-ix.net",
-    "Sales Phone": "",
-    "Health Check": "",
-    "LAN": "1500"
-  }
+    "version": "1.0",
+    "generator": "IXP Manager v6.4.1",
+    "timestamp": "2025-10-13T08:15:35Z",
+    "ixp_list": [
+        {
+            "shortname": "Paducah IX",
+            "name": "Paducah IX",
+            "country": "US",
+            "url": "https:\/\/paducahix.net\/",
+            "peeringdb_id": 3407,
+            "ixf_id": 919,
+            "ixp_id": 1,
+            "support_email": "ixp@paducahix.net",
+            "support_phone": "+1 855 517 5118",
+            "support_contact_hours": "8x5",
+            "emergency_email": "ixp@paducahix.net",
+            "emergency_phone": "+1 855 517 5118",
+            "emergency_contact_hours": "8x5",
+            "billing_contact_hours": "8x5",
+            "billing_email": "ixp@paducahix.net",
+            "billing_phone": "+1 855 517 5118",
+            "peering_policy_list": [
+                "open",
+                "selective",
+                "mandatory",
+                "closed"
+            ],
+            "vlan": [],
+            "switch": [
+                {
+                    "id": 1,
+                    "name": "sw147",
+                    "colo": "QSI PAH1",
+                    "city": "Paducah",
+                    "country": "US",
+                    "pdb_facility_id": null,
+                    "manufacturer": "Mikrotik",
+                    "model": "Unknown",
+                    "software": "Unknown Unknown"
+                },
+                {
+                    "id": 2,
+                    "name": "vSwitch",
+                    "colo": "QSI PAH1",
+                    "city": "Paducah",
+                    "country": "US",
+                    "pdb_facility_id": 13029,
+                    "manufacturer": "Linux",
+                    "model": null,
+                    "software": ""
+                }
+            ]
+        }
+    ],
+    "member_list": [
+        {
+            "asnum": 42,
+            "member_since": "2024-08-06T00:00:00Z",
+            "url": null,
+            "name": "WoodyNet",
+            "peering_policy": null,
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 2,
+                            "if_speed": 10000
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.17",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::17",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asnum": 112,
+            "member_since": "2021-01-13T00:00:00Z",
+            "url": null,
+            "name": "AS112",
+            "peering_policy": null,
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 2,
+                            "if_speed": null
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.250",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::250",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asnum": 3856,
+            "member_since": "2024-08-06T00:00:00Z",
+            "url": "https:\/\/www.pch.net",
+            "name": "Packet Clearing House",
+            "peering_policy": null,
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 2,
+                            "if_speed": 10000
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.18",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::18",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asnum": 6939,
+            "member_since": "2024-06-28T00:00:00Z",
+            "url": null,
+            "name": "Hurricane Electric",
+            "peering_policy": null,
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 1,
+                            "if_speed": 100000
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.20",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::20",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asnum": 11970,
+            "member_since": "2022-09-12T00:00:00Z",
+            "url": "https:\/\/etelonline.com\/",
+            "name": "eTel LLC",
+            "peering_policy": null,
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 2,
+                            "if_speed": 10000
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.14",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::14",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asnum": 27319,
+            "member_since": "2021-08-13T00:00:00Z",
+            "url": "https:\/\/www.isc.org",
+            "name": "ISC F-Root",
+            "peering_policy": "open",
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 2,
+                            "if_speed": 10000
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.12",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::12",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asnum": 53471,
+            "member_since": "2024-10-10T00:00:00Z",
+            "url": null,
+            "name": "NetSkrt Systems",
+            "peering_policy": null,
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 1,
+                            "if_speed": 100000
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.23",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::23",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asnum": 395314,
+            "member_since": "2024-08-12T00:00:00Z",
+            "url": "https:\/\/sanjuanpools.com\/",
+            "name": "American Environmental Container Corp.",
+            "peering_policy": null,
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 2,
+                            "if_speed": 10000
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.16",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::16",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asnum": 397795,
+            "member_since": "2021-01-13T00:00:00Z",
+            "url": "https:\/\/thefirehorn.com\/",
+            "name": "The Fire Horn, Inc.",
+            "peering_policy": "open",
+            "member_type": "peering",
+            "connection_list": [
+                {
+                    "ixp_id": 1,
+                    "state": "active",
+                    "if_list": [
+                        {
+                            "switch_id": 2,
+                            "if_speed": 100000
+                        }
+                    ],
+                    "vlan_list": [
+                        {
+                            "vlan_id": 1,
+                            "ipv4": {
+                                "address": "149.112.114.10",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            },
+                            "ipv6": {
+                                "address": "2001:505:140::10",
+                                "routeserver": false,
+                                "mac_addresses": []
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+          "asnum": 399788,
+          "member_since": "2021-01-13T00:00:00Z",
+          "url": "https://quadstateinternet.net/",
+          "name": "Quad State Internet",
+          "peering_policy": "open",
+          "member_type": "peering",
+          "connection_list": [
+            {
+              "ixp_id": 1,
+              "state": "active",
+              "if_list": [
+                {
+                  "switch_id": 1,
+                  "if_speed": 100000
+                }
+              ],
+              "vlan_list": [
+                {
+                  "vlan_id": 1,
+                  "ipv4": {
+                    "address": "149.112.114.11",
+                    "as_macro": "AS-QUADSTATE-NET",
+                    "routeserver": false,
+                    "mac_addresses": []
+                  },
+                  "ipv6": {
+                    "address": "2001:505:140::11",
+                    "as_macro": "AS-QUADSTATE-NET",
+                    "routeserver": false,
+                    "mac_addresses": []
+                  }
+                },
+                {
+                  "vlan_id": 1,
+                  "ipv4": {
+                    "address": "149.112.114.29",
+                    "as_macro": "AS-QUADSTATE-NET",
+                    "routeserver": false,
+                    "mac_addresses": []
+                  },
+                  "ipv6": {
+                    "address": "",
+                    "as_macro": "AS-QUADSTATE-NET",
+                    "routeserver": false,
+                    "mac_addresses": []
+                  }
+                }
+              ]
+            }
+          ]
+        }
+    ]
 }
