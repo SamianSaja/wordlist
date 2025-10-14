@@ -34,7 +34,7 @@
                     "colo": "QSI PAH1",
                     "city": "Paducah",
                     "country": "US",
-                    "pdb_facility_id": 13029,
+                    "pdb_facility_id": null,
                     "manufacturer": "Mikrotik",
                     "model": "Unknown",
                     "software": "Unknown Unknown"
