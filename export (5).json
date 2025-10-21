@@ -160,41 +160,6 @@
             ]
         },
         {
-            "asnum": 6939,
-            "member_since": "2024-06-28T00:00:00Z",
-            "url": null,
-            "name": "Hurricane Electric",
-            "peering_policy": null,
-            "member_type": "peering",
-            "connection_list": [
-                {
-                    "ixp_id": 1,
-                    "state": "active",
-                    "if_list": [
-                        {
-                            "switch_id": 1,
-                            "if_speed": 100000
-                        }
-                    ],
-                    "vlan_list": [
-                        {
-                            "vlan_id": 1,
-                            "ipv4": {
-                                "address": "149.112.114.20",
-                                "routeserver": false,
-                                "mac_addresses": []
-                            },
-                            "ipv6": {
-                                "address": "2001:505:140::20",
-                                "routeserver": false,
-                                "mac_addresses": []
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "asnum": 11970,
             "member_since": "2022-09-12T00:00:00Z",
             "url": "https:\/\/etelonline.com\/",
